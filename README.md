@@ -55,6 +55,12 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 ## 🧠 LeetCode Topics
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
 
 ---
