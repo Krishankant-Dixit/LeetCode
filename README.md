@@ -62,6 +62,7 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 | [0007-reverse-integer](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -81,11 +82,16 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
 
 ---
