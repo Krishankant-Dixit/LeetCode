@@ -64,6 +64,7 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 | [0050-powx-n](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 | [0050-powx-n](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -94,6 +96,7 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
 
 ---
