@@ -76,6 +76,7 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0344-reverse-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Krishankant-Dixit/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,10 @@ I use this repository to document my **LeetCode journey**, track my progress, an
 | ------- |
 | [0231-power-of-two](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Krishankant-Dixit/LeetCode/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Krishankant-Dixit/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
 
 ---
